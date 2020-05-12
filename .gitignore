@@ -2,3 +2,4 @@
 *.pdf 
 project2019/ 
 training_checkpoints/ 
+keep_ckpt/ 
